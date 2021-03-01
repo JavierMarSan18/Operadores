@@ -1,0 +1,16 @@
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\bin\Debug\net5.0\Operaciones_basicas.exe
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\bin\Debug\net5.0\Operaciones_basicas.deps.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\bin\Debug\net5.0\Operaciones_basicas.runtimeconfig.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\bin\Debug\net5.0\Operaciones_basicas.runtimeconfig.dev.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\bin\Debug\net5.0\Operaciones_basicas.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\bin\Debug\net5.0\ref\Operaciones_basicas.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\bin\Debug\net5.0\Operaciones_basicas.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\Operaciones_basicas.csprojAssemblyReference.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\Operaciones_basicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\Operaciones_basicas.AssemblyInfoInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\Operaciones_basicas.AssemblyInfo.cs
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\Operaciones_basicas.csproj.CoreCompileInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\Operaciones_basicas.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\ref\Operaciones_basicas.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\Operaciones_basicas.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 2 02-03-2021\Operaciones_basicas\obj\Debug\net5.0\Operaciones_basicas.genruntimeconfig.cache
